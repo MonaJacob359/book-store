@@ -7,7 +7,7 @@ const Blog = () => {
       id: 1,
       title: "Can Coffee Make You a Better Developer?",
       image: "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-      author: "Ammar",
+      author: "Mona",
       date: "Aug 18",
       description: "Exploring the connection between caffeine and productivity in coding. Can coffee really enhance your focus and make you a better developer? Many developers swear by their morning cup of coffee as the fuel to jump-start their day, but is there scientific evidence to back up the claim? In this post, we dive into research about caffeine's impact on focus, cognitive function, and overall productivity. We'll explore whether drinking coffee can indeed sharpen your problem-solving skills, improve your concentration, and increase the time you can spend in the 'flow' state while coding. But we'll also take a critical look at the downsides of excessive caffeine intake, such as jitters, anxiety, and disrupted sleep patterns. Finally, we provide tips on how to balance coffee consumption with a healthy work-life routine to maximize both productivity and well-being."
     },

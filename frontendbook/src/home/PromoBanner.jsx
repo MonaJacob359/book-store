@@ -8,8 +8,8 @@ const PromoBanner = () => {
         <div className='flex flex-col md:flex-row justify-between items-center gap-12'>
             <div className='md:w-1/2'>
                 <h2 className='text-4xl font-bold mb-6 leading-snug'>2025 National Book Awards for Fiction Shortlist</h2>
-                <Link to="/shop" className=' block'><button className='bg-blue-700 text-white font-semibold
-                px-5 py-2 rounded hover:bg-black transition-all duration-300'>
+                <Link to="/shop" className=' block'><button className='bg-teal-700 text-white font-semibold
+                px-5 py-2 rounded hover:bg-teal-900 active:bg-teal-500 transition-all duration-300'>
                     Get Promo </button></Link>
             </div>
 
