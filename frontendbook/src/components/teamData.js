@@ -5,7 +5,7 @@ export const teamMembers = [
       title: 'Founder & Owner',
       description:
         'As the founder of Mahama Book Store, Mona has always had a deep passion for books and a desire to share that passion with others. With years of experience in the book industry, she curates our collection to ensure we offer a diverse and engaging selection for readers of all tastes. Mona\'s vision is to create a welcoming space where everyone feels at home.',
-      image: '/profileP.png'
+      image: '/profileWP.png'
     },
 
 
