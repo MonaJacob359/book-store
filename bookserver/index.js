@@ -7,7 +7,7 @@ require('dotenv').config(); // Load .env variables
 
 const { MongoClient, ServerApiVersion, ObjectId } = require('mongodb');
 
-const port = process.env.PORT || 7000;
+const port = process.env.PORT || 8080;
 const uri = process.env.MONGODBURL;
 
 // Middleware
