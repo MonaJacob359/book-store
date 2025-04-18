@@ -97,7 +97,7 @@ const SingleBook = () => {
 
             {/* Add to Cart / Buy Now Button */}
             <div className="mt-4 flex items-center gap-x-4">
-              <button onClick={handleAddToCart} className="flex items-center gap-x-2  py-2 px-4 text-sm bg-blue-600 text-white font-semibold rounded-lg shadow-md hover:bg-blue-700 transition duration-300">
+              <button onClick={handleAddToCart} className="flex items-center gap-x-2  py-2 px-4 text-sm bg-teal-600 text-white font-semibold rounded-lg shadow-md hover:bg-teal-800 active:bg-teal-500 transition duration-300">
                 Add to Cart<MdAddShoppingCart size={25}/>
               </button>
               <span onClick={handleHeart} className="flex bg-gray-200 py-1.5 px-3 rounded-lg">

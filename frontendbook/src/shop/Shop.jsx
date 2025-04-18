@@ -29,7 +29,7 @@ const Shop = () => {
 
   return (
     <div className='mt-28 px-4 lg:px-24'>
-      <h2 className='text-5xl font-bold text-center'>All books are here</h2>
+      <h2 className='text-4xl text-teal-800 font-bold text-center'>All books are here</h2>
 
       {/* cards */}
       <div className='grid gap-8 my-12 lg:grid-cols-4  sm:grid-cols-3 grid-cols-1'>
@@ -44,7 +44,7 @@ const Shop = () => {
                 {book.bookDescription}
               </p>
               <Link to={`/book/${book._id}`} >
-              <button className='bg-blue-700 font-semibold w-full text-white py-2 rounded'>Buy New</button>
+              <button className='bg-teal-700 hover:bg-teal-900 active:bg-teal-500 font-semibold w-full text-white py-2 rounded'>Buy New</button>
               </Link>
             </Card>
             
